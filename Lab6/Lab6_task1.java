@@ -26,7 +26,7 @@ class StudentInfo {
 
 public class Lab6_task1 {
     public static void main(String[] args) {
-        StudentInfo record = new StudentInfo("Aee Hadyy", 174);
+        StudentInfo record = new StudentInfo("omarrrrr", 194);
         System.out.println("Name: " + record.getStudentName() + " | ID: " + record.getEnrollmentId());
 
         record.setStudentName("Ahmad");

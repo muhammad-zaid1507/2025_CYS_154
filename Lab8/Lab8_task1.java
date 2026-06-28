@@ -10,7 +10,7 @@ public class Lab8_task1 {
 //        createFile(myFile);
 //        myFile = renameFile(myFile, "Records.csv");
 //        System.out.println(myFile.getName());
-        writeToFile(myFile, "Name: Hassan\nRollNo: 166");
+        writeToFile(myFile, "Name: Zaid\nRollNo: 154");
         readFromFile(myFile);
     }
 
